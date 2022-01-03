@@ -1,5 +1,7 @@
 This repository contains the data used in the article ["Conspiracy of Corporate Networks in Corruption Scandals", Frontiers in Physics, 6, 2021.](https://www.frontiersin.org/articles/10.3389/fphy.2021.667471/full)
 
+Permanent repository in figshare: https://doi.org/10.6084/m9.figshare.12830561
+
 * For privacy protection, we have held in anonymity all the information regarding identification of the companies and associated people. 
 * There is one csv file for each of the four cases analyzed in the article. 
 * The number in the file names correspond to the case number as it appears in the article text.
