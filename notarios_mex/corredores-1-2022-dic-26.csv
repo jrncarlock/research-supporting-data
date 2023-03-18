@@ -1,0 +1,434 @@
+estado,nombre,numero,presidente,direccion
+Zacatecas,Lic. Joel Cano Valencia ,2,False,Guadalupe Zacatecas 
+Yucatán,Lic.  José Joaquín Pino Barrera ,13,True,"Calle 5- A número 151, por 28 Colonia García Gineres Mérida Yucatán 97070 "
+Yucatán,Lic. Efraín Jesús Díaz y Díaz ,1,False,Calle 23 número 199-D (entre Calles 22 y 24) Colonia García Gineres Mérida Yucatán 97070 
+Yucatán,Lic. José Luis Carrillo Berzunza ,3,False,Calle 66 número 510 (por 63) Colonia Centro Mérida Yucatán 97000 
+Yucatán,Lic. Luis Jorge Cárdenas López ,4,False,Calle 66 número 444-A (entre 49 y 53) Colonia Centro Mérida Yucatán 97000 
+Yucatán,Lic. Enrique José Mendoza Cámara ,5,False,Calle 27 número 494 (por 56 y 56 A) Colonia Itzimna Mérida Yucatán 91700 
+Yucatán,Lic. Manuel José Rodríguez Villamil ,6,False,Con licencia de separación
+Yucatán,Lic. Sergio Alberto Paredes Pino ,7,False,Calle 28 número 170-B (entre calles 7 y 9) Colonia García Gineres Mérida Yucatán 97070 
+Yucatán,Lic. Guibaldo Vargas Madrazo ,8,False,Con licencia de separación
+Yucatán,Lic. Gerardo José Rodríguez Villamil ,9,False,Calle 18 número 91 Colonia México Mérida Yucatán 97128 
+Yucatán,Lic. Alejandra Perales Bautista ,10,False,Calle 1F número 310 Fraccionamiento Campestre Mérida Yucatán 97070 
+Yucatán,Lic. Patricio Solis Millet ,11,False,Calle 22 número 293 por 17 Colonia Miguel Alemán Mérida Yucatán 97148 
+Yucatán,Lic. Roberto José Ponce Montemayor ,12,False,Calle 31(ave. Circuito Colonias) No. 107 A (Plaza Metrópolis) local 6 por 22 y 24 Colonia México Mérida Yucatán 97125 
+Yucatán,Lic. Pedro Enrique Góngora Urcelay ,14,False,Calle 28 No. 100 por 19 y 21 Col. Itzimná Mérida Yucatán 97100 work
+Veracruz,Lic. Alaodin Nieto Solana ,15,True,Chopin número 5 Colonia Indeco Animas Xalapa Veracruz 91190 
+Veracruz,Lic. Armando Lima Anguiano ,1,False,Calle Arquitecto Enrique Segarra número 235 Colonia Fraccionamiento Las Hortalizas Veracruz Veracruz 91808 
+Veracruz,Lic. Jorge Alberto Aquino Pozos ,2,False,"Doctor Rafael Lucio, número 183, primer piso Colonia Centro Xalapa Veracruz 91000 "
+Veracruz,Lic. Raúl González Rivera ,3,False,Miguel Negrete número 1 interior C Colonia María Esther Xalapa Veracruz 91030 
+Veracruz,Lic. María del Socorro Dávila García ,4,False,Avenida 20 de Noviembre número 1015 (esquina con calle 22) Colonia Cazones de Poza Rica Poza Rica Veracruz 93230 
+Veracruz,Lic. Orlando García Ortíz ,5,False,Calle Miguel Negrete número 45 Colonia Maria Esther Xalapa Veracruz 91030 
+Veracruz,Lic. Guillermo Jorge González Díaz ,6,False,Calle Heriberto Jara número 784 (Entre avenida Isabel la Católica y Américas) Colonia Fraccionamiento Reforma Veracruz Veracruz 91808 
+Veracruz,Lic. Andrés de los Santos García ,7,False,"Calle 1 número 104, esquina Avenida 3, Edificio Plaza Jardón, Segundo Piso, Despacho 206 Colonia Centro Córdoba Veracruz 94500 "
+Veracruz,Lic. Ivonne Díaz Lozada ,8,False,"Avenida Rafael Murillo Vidal número 232, Tercer Piso Colonia Cuauhtémoc Xalapa Veracruz 91060 "
+Veracruz,Lic. Víctor Manuel Zamudio Grave ,9,False,Avenida Francisco Hernández y Hernández número 484 – 3 Colonia Fraccionamiento Faros Veracruz Veracruz 91709 
+Veracruz,Lic. José Manuel Ricárdez Reyna ,10,False,Avenida Miguel Hidalgo número 416 Colonia Centro Coatzacoalcos Veracruz 96400 
+Veracruz,Lic. Alberto Javier Robles Mijares ,11,False,"Avenida Ruiz Cortines número 3824, 1er piso, oficina 2 Colonia Fraccionamiento Costa de Oro Boca del Róo Veracruz 94299 "
+Veracruz,Lic. Armando Lima Orozco ,12,False,Calle Arquitecto Enrique Segarra número 235 Colonia Fraccionamiento Las Hortalizas Veracruz Veracruz 91808 
+Veracruz,Lic. Carlos Fernando Chablé Cubría ,13,False,Avenida Ferrocarril Interoceánico número 8 Colonia Laureles Xalapa Veracruz 91808 
+Veracruz,Lic. Benjamín García Herrera ,14,False,Blvd. Europa número 3 Colonia Fraccionamiento Ánimas Sección Monte Magno Xalapa Veracruz 91190 
+Veracruz,Lic. Shunashi Jazmín Altamirano Pineda ,16,False,Calle 2 número 1110 Colonia Centro Córdoba Veracruz 94500 
+Veracruz,Lic. Teresa de Jesús Muñoz Uscanga ,17,False,Diego de Ordaz número 275 Colonia Fraccionamiento Reforma Veracruz Veracruz 91919 
+Veracruz,Lic. Jorge Isaac Larrea Vargas ,18,False,"Av. Díaz Mirón número 274, interior 109 Altos, Plaza San José Colonia Centro Veracruz Veracruz 91700 "
+Veracruz,Lic. Francisco Javier Robles Hue ,19,False,"Avenida Ruiz Cortines número 3824, piso 1, oficina 2 Colonia Fraccionamiento Costa de Oro Boca del Río Veracruz 94299 work"
+Veracruz,Lic. José Manuel Ricardez Rodríguez ,20,False,Calle Miguel Hidalgo número 416 Colonia Centro Coatzacoalcos Veracruz 96400 work
+Tlaxcala,Lic. Nora Mendoza Arrevillaga C,2,True,Prolongación Av. Independencia número 134 Colonia Colinas del Sur Tlaxcala Tlaxcala 90060 
+Tlaxcala,Lic. Leonardo Adolfo Daniel Molina Yano ,1,False,"Carretera Chiautempan Apizaco Km 0.5, Torre Millenium Colonia Centro Santa Ana Chiautempan Tlaxcala 90800 "
+Tlaxcala,Lic. Juan Carlos Cuevas Falcón ,3,False,Privada Revolución número 7-B Colonia Fraccionamiento Emilio Sánchez Piedras Yauhquemehcan Tlaxcala 90454 
+Tlaxcala,Lic. Carlos Pablo Corona ,4,False,Calle Jesús Carranza 1301 Colonia San Miguel Apizco Tlaxcala 90300 work
+Tamaulipas,Lic. Juan Jesús Vera López ,8,True,Sinaloa No. 1140 Colonia Rodríguez Cd. Reynosa Tamaulipas 88630 
+Tamaulipas,Lic. Julio César Morales Romo ,1,False,"Calle Circuito San Felipe Edificio 201-D, D-402 Colonia Los Pinos Tampico Tamaulipas 89138 work"
+Tamaulipas,Mtro. Luis Antonio Pérez Benítez ,2,False,Calle Veracruz No. 3849 Colonia Jardón Nuevo Laredo Tamaulipas 88260 
+Tamaulipas,Lic. Wilfredo Emmanuel Ramírez Núñez ,3,False,Calle Ocotlán número 2 Colonia Victoria H. Matamoros Tamaulipas 87390 
+Tamaulipas,Lic. Sotero Vallejo Hernandez ,4,False,"Calle 20 de Noviembre No. 105 Norte, Despacho 104 Colonia Zona Centro Tampico Tamaulipas 89000 "
+Tamaulipas,Lic. Amada Monica Susano Saucedo ,5,False,Róo Volga No. 520 Colonia Fraccionamiento Valle Verde Reynosa Tamaulipas 88720 
+Tamaulipas,Lic. Ana Xóchitl Barrios del Ángel ,6,False,Calle 14 No. 209 Altos Colonia Monteverde Ciudad Madero Tamaulipas 89420 
+Tamaulipas,Lic. Enoc Alejandro García Rivera ,7,False,* Tamaulipas 
+Tabasco,Lic. Jaime Antonio Reynés Manzur ,1,False,Fernando Montes de Oca #406 PB Colonia Lindavista Villahermosa Tabasco 86050 
+Tabasco,Lic. Carlos Alberto Gómez Díaz Durán ,2,False,Calle Madroño número 127 Colonia Fraccionamiento Bosques de Villahermosa Villahermosa Tabasco 86030 
+Sonora,Lic. Javier Iriarte Torres ,2,True,Calle Paseo de la Arboleda No. 48-A Colonia Valle Grande Hermosillo Sonora 83200 
+Sonora,Lic. Salomón Griego García ,1,False,Boulevard Solidaridad número 1360 interior 22 Colonia Proyecto Róo Sonora Hermosillo Sonora 83270 
+Sonora,Lic. Carlos Orduño Fragoza ,3,False,Calle Arista No. 13 Colonia Centro Hermosillo Sonora 83000 
+Sonora,Lic. Ramón Valencia Serrano ,4,False,Calle Aguascalientes No. 25 Interior 9 Colonia Modelo Hermosillo Sonora 83190 
+Sinaloa,Mtro. César Daniel Pérez Cázarez ,9,True,Av. Juan M. Banderas 425 Sur Colonia Jorge Almada Culiacán Sinaloa 80200 
+Sinaloa,Lic. José Ramón Díaz Meza ,1,False,Calle Epitacio Osuna número 1091 Poniente Colonia Almada Culiacán Sinaloa 80200 
+Sinaloa,Lic. Jesús Gabino Aldana Hernández ,2,False,"Agustín Verdugo No. 1366, Colonia Chapultepec Culiacán Sinaloa 80040 "
+Sinaloa,Lic. Gerardo Aldama de la Rocha ,3,False,Calle Miguel Hidalgo número 450 poniente Colonia Centro Culiacán Sinaloa 80000 
+Sinaloa,Lic. José Rafael Cebreros Bringas ,4,False,"Av. Álvaro Obregón número 742 Norte, 1er piso Colonia Centro Culiacán Sinaloa 80000 "
+Sinaloa,Lic. David Cristobal Alvarez Bernal ,5,False,Av. Sierra Grande No. 104 Colonia Fraccionamiento Lomas de Mazatlán Mazatlán Sinaloa 82110 
+Sinaloa,Lic. Oscar Urcisichi Arellano ,6,False,Con licencia de separación
+Sinaloa,Lic. Oscar Félix Chávez Carrillo ,7,False,Avenida de los Poetas No. 1671 Colonia Fraccionamiento Portalegre Culiacán Sinaloa 80058 
+Sinaloa,Lic. Dora Alicia Figueroa Quiroz ,8,False,Con licencia de separación
+Sinaloa,Lic. Jorge Rafael Cebreros Varela ,10,False,Avenida Álvaro Obregón No. 742 Nte. Colonia Centro Culiacán Sinaloa 80000 
+Sinaloa,Lic. Juan Carlos Maldonado Cabral ,12,False,Con licencia de separación
+San Luis Potosí,Lic. Luis Miguel Meade Rodríguez ,6,True,Calle Cordillera Tangamanga número 147 Colonia Lomas Tercera Sección San Luis Potosí San Luis Potosí 78216 
+San Luis Potosí,Lic. José Mario de la Garza Marroquín ,3,False,Calle Humboldt número 121 Colonia Del Valle San Luis Potosí San Luis Potosí 78200 
+San Luis Potosí,Lic. Mauricio Humara Pedroza ,4,False,Calle Sierra Leona No. 231 Colonia Cumbres de San Luis San Luis Potosí San Luis Potosí 78210 
+San Luis Potosí,Lic. Paulo Magaña Rodríguez ,5,False,Ignacio Comonfort número 1398 – A Colonia Alamitos San Luis Potosí San Luis Potosí 78280 
+San Luis Potosí,Lic. Marcelo Del Castillo Lafuente ,7,False,Calle Fray Diego de la Magdalena No. 1256 Colonia Jardín San Luis Potosí San Luis Potosí 78260 
+Quintana Roo,Lic. Javier González Alegre ,11,True,"Calle Guerrero número 20, Manzana 9, Lote 3 Colonia Supermanzana 30 Cancún Quintana Roo 77508 "
+Quintana Roo,Lic. Raúl Gustavo Bringas Celiceo ,1,False,"Avenida Tulum número 192, Manzana 17, interior 35, Supermanzana 4 Colonia Plaza Tropical Cancún Quintana Roo 77500 "
+Quintana Roo,Lic. Eduardo González Alonso ,2,False,"Calle Agua número 6, Planta Baja, Edificio Arrecifes Colonia Supermanzana 4 Cancún Quintana Roo 77500 "
+Quintana Roo,Lic. Gabriela Lima Laurents ,3,False,"Calle 11, Manzana 8, número 18, Colonia Supermanzana 39 Cancún Quintana Roo 77507 "
+Quintana Roo,Lic. Oscar Jorge Fink Serra ,4,False,Con licencia de separación
+Quintana Roo,Dr. Carlos Rodolfo Yañez Peralta ,5,False,"Av. De La Luna, Manzana 9, Lote 6, Segundo Piso, Oficina 2, Supermanzana 44 77500 work"
+Quintana Roo,Lic. Concepción Esteban Manchado ,6,False,"Avenida de la Luna Manzana 16, interior 302 Colonia Supermanzana 43 Cancún Quintana Roo 77506 "
+Quintana Roo,Lic. Juan José López Castro ,8,False,"Calle 6 Norte por Calle 40 Avenida Norte, Manzana 71, Lote 01, número 160 D – 5, piso 1, Edificio Kaleisa Colonia Centro Playa del Carmen Quintana Roo 77710 "
+Quintana Roo,Lic. Eduardo Alberto Suárez Torres ,9,False,"Calle Isla Holbox, Manzana 12, Lote 13, Departamento A Colonia Súpermanzana 32 Cancún Quintana Roo 77508 "
+Quintana Roo,Lic. Luis Alejandro Medina González ,10,False,Calle Venado número 1 Manzana 17 SM 20 Colonia Centro Cancún Quintana Roo 77500 
+Quintana Roo,Lic. Gilberto Guzmán Rivera ,12,False,"Plaza Paseo Playacar, Local 39, Lote 1, Manzana 19A Colonia Playacar Fase II Solidaridad Quintana Roo 77717 "
+Quintana Roo,Lic. Susano Jesús Zetina Cuevas ,13,False,"Avenida Aviación Plaza Mabor, Locales 11 y 12 Colonia Fraccionamiento Playacar Fase 2 Playa del Carmen Quintana Roo 77710 "
+Quintana Roo,Lic. Manuel Ernesto Núñez Cervantes ,14,False,"Avenida Acanceh, manzana 2, lote 3, supermanzana 11, piso 3B, Edificio Centro de Negocios conjunto Hotel Ibis Cancún Quintana Roo 77504 "
+Quintana Roo,Lic. Guillermo Méndez Lau ,15,False,"Avenida Contoy, entre Avenida Holbox y Avenida Cozumel, Supermanzana 12, Manzana 4, Lote 11 Cancún Quintana Roo 77500 "
+Querétaro,Lic. Gerardo Alcocer Murguía ,5,True,"Avenida Zaragoza Poniente número 330 Poniente, Edificio Torre Azul, despacho 1 Colonia Niños Héroes Querétaro Querétaro 76010 "
+Querétaro,Lic. Ignacio González González ,1,False,Con licencia de separación
+Querétaro,Lic. Carlos Uriel Márquez Ambrosi ,2,False,"Boulevard de las Ciencias número 3015, piso 2, Despacho 205, en The Village Coporativo Colonia Juriquilla Santa Fe Querétaro Querétaro 76230 "
+Querétaro,Lic. Carlos Salvador Núñez Gudiño ,3,False,"Avenida Juárez Sur número 68, piso 2 Colonia Zona Centro Querétaro Querétaro 76000 "
+Querétaro,Lic. Julio Sentíes Laborde ,4,False,Calle Árbol número 27 Colonia Álamos 3a sección Querétaro Querétaro 76160 
+Querétaro,Lic. Antonio Juan José Gutiérrez Álvarez ,6,False,Paseo de Loma Dorada número 114 Colonia Loma Dorada Querétaro Querétaro 76060 
+Querétaro,Lic. Benjamín Castro Polo ,7,False,Calle Ezequiel Montes norte número 24 Colonia Centro Querétaro Querétaro 76000 
+Querétaro,Lic. Paulina Sáenz y Sáenz ,8,False,Cerro de la Bufa número 138 PB Colonia Colinas del Cimatario Querétaro Querétaro 76090 
+Querétaro,Lic. David Felipe Vallarino Hernando ,9,False,"David Alfaro Siqueiros número 2, esquina José Clemente Orozco Colonia Fraccionamiento Pueblo Nuevo Querétaro Querétaro 76900 "
+Querétaro,Lic. José Antonio Villaseñor Sarvide ,10,False,Con licencia de separación
+Querétaro,Lic. Sergio Alejandro Barrón Ortiz ,11,False,Calle Lago Santiagillo número 119 Fraccionamiento Cumbres de Lago Juriquilla Querétaro Querétaro 76230 work
+Puebla,Lic. Waldo Arellano Espindola ,7,True,"Calle 5 Poniente número 1303, piso 3, letra A Colonia Centro Puebla Puebla 72000 "
+Puebla,Lic. Francisco Javier Lara Mendoza ,1,False,Avenida 29 Oriente número 2017 Colonia Fraccionamiento El Mirador Puebla Puebla 72540 
+Puebla,Lic. Alejandro Tinoco Cabrera ,2,False,Avenida 31 Poniente 719 – 2 Colonia Chula Vista Puebla Puebla 72420 
+Puebla,Lic. Carlos González Barra ,3,False,"Calle Segunda de Morelos número 308, despacho 101 Colonia Centro Tehuacán Puebla 75700 "
+Puebla,Lic. Rubén Alejandro Lara Limón ,4,False,"Avenida 29 Oriente número 2017, interior 201 Colonia El Mirador Puebla Puebla 72540 "
+Puebla,Lic. Silvestre Bringas Olmedo ,5,False,"Calle Segunda de Morelos número 308, despacho 104 Colonia Centro Tehuacán Puebla 75700 "
+Puebla,Lic. Ricardo Vila Esponda ,8,False,"Calzada Zavaleta número 1306, despacho 133, Plaza Solé Zavaleta Colonia Santa Cruz Buenavista Puebla Puebla 72154 "
+Puebla,Dr. Manuel Enrique Díaz y Pérez ,9,False,Calle Privada de la 5B Sur número 4101 Colonia Gabriel Pastor Puebla Puebla 72420 
+Puebla,Lic. Orlando Flores Rodríguez ,10,False,Avenida treinta y nueve oriente No. 19 Colonia Carmen Huexotitla Puebla Puebla 72534 
+Puebla,Lic. Carlos Manuel Lemini Ávila Parra ,11,False,Calle Chietla número 908 Colonia La Paz Puebla Puebla 72160 
+Oaxaca,Lic. Enrique López Salinas ,3,True,"Calle Cocotillo número 326, Sector Colonia La Crucecita Bahias de Huatulco Oaxaca 70989 "
+Oaxaca,Lic. Marcial Pérez Hernández ,1,False,Calle Reforma número 528 A – 3 Colonia Zona Centro Oaxaca Oaxaca 68000 
+Oaxaca,Lic. Zenón López López ,2,False,Calzada de la República 311 Colonia Centro Oaxaca Oaxaca 68000 
+Oaxaca,Lic. Virginia González Cedillo ,4,False,Calzada de la Republica número 311 Colonia Centro Oaxaca Oaxaca 68000 
+Oaxaca,Lic. Gabriel Adolfo Vargas Rozados ,5,False,"Calle Rafael Osuna Número 110, Colonia Olómpica Oaxaca Oaxaca 68020 "
+Nuevo León,Lic. Lilian Jauregui Salinas ,23,True,"Avenida Lázaro Cárdenas No. 216, interior 1 – A Colonia Residencial San Agustón San Pedro Garza García Nuevo León 66260 "
+Nuevo León,Mtra. Maria Guadalupe Blásquez Ortíz ,27,True,Sacramento No. 101 Colonia Mitras Centro Monterrey Nuevo León 64460 
+Nuevo León,Lic. Patricio Eugenio Galván Salinas ,1,False,Hidalgo número 1208 A Pte. Colonia Centro Monterrey Nuevo León 64000 
+Nuevo León,Lic. Modesto Mata Torres ,6,False,Calle América No. 210 Sur (entre las calles de Washington y Modesto Arreola) Colonia Centro Monterrey Nuevo León 64000 
+Nuevo León,Lic. José Carlos Reyes Cadena ,7,False,"Av. Lázaro Cárdenas No. 216, 5o piso Colonia Fraccionamiento Residencial San Agustín San Pedro Garza García Nuevo León 66260 work"
+Nuevo León,Lic. Elias Martínez Treviño ,11,False,"Calle Albino Espinosa Poniente, No. 1821, Locales 2 y 4 Colonia Centro Monterrey Nuevo León 64000 "
+Nuevo León,Lic. Gerardo Maldonado García ,12,False,Calle Róo Amacuzac No. 901 Colonia Valle Oriente San Pedro Garza García Nuevo León 66269 
+Nuevo León,Mtro. Gustavo Escamilla Flores ,13,False,"Calle Dr. José Luna Ayala No. 204, Edificio Torre Galeróas, Segundo Piso, Interior A Colonia San Jerónimo Monterrey Nuevo León 64640 "
+Nuevo León,Lic. Rodrigo Verástegui Soria ,14,False,Calle Matamoros número 1137 Poniente Colonia Centro Monterrey Nuevo León 64000 work
+Nuevo León,Lic. José Andrés Garza Tamez ,15,False,"Calle José T. Villagómez número 332 Sur, entre Washington y 5 de mayo Colonia Centro Monterrey Nuevo León 64000 "
+Nuevo León,Lic. Diana Graciela Rodríguez Treviño ,16,False,"AV. Lázaro Cárdenas No. 216, 5o piso Colonia Fraccionamiento Residencial San Agustín San Pedro Garza García Nuevo León 66260 "
+Nuevo León,Lic. Javier Enrique González Alcántara Lutteroth ,17,False,Av. Alfonso Reyes No. 11 Piso 2 Interior 1 Col. Residencial Cordillera Santa Catarina Nuevo León 66196 
+Nuevo León,Lic. José María González Elizondo ,18,False,Con licencia de separación
+Nuevo León,Lic. Francisco Javier Lozano Medina ,19,False,Con licencia de separación
+Nuevo León,Lic. José Enrique Guzmán Quiroga ,20,False,Vía Savotino número 213 Colonia Fuentes del Valle San Pedro Garza García Nuevo León 66220 
+Nuevo León,Lic. Rodrigo Ernesto Barahona Iglesias ,21,False,Calle Abasolo No. 1027 Oriente Colonia Barrio Antiguo Monterrey Nuevo León 64000 
+Nuevo León,Lic. Eva Margarita Gómez Tamez ,22,False,Calle Hidalgo número 104 Sur Colonia Centro Allende Nuevo León 67350 
+Nuevo León,Lic. Moisés González Santillán ,24,False,"José Clemente Orozco No. 335, Torre Novo, piso 3, Oficina 306. Colonia Valle Oriente San Pedro Garza García Nuevo León 66269 "
+Nuevo León,Lic. Luis Cortés García ,25,False,Avenida Paseo de los Leones No. 715 Colonia Leones Monterrey Nuevo León 64600 
+Nuevo León,Lic. Abelardo Pérez Ocañas ,26,False,"Calle Carlos Salazar, No. 918 Oriente Colonia Centro Monterrey Nuevo León 64000 "
+Nuevo León,Lic. José Alfonso Gómez Tamez ,28,False,"Rafael J. Verger número 1814, despacho 2-A Colonia Obispado Monterrey Nuevo León 64008 "
+Nuevo León,Lic. Roberto Arnoldo Flores Martínez ,29,False,"Calle Morelos No. 432 Oriente, Despacho 905 Colonia Centro Monterrey Nuevo León 64000 "
+Nuevo León,Lic. Mónica Maldonado Quintanilla ,30,False,Róo Amacuzac No. 901 B Colonia Valle Oriente San Pedro Garza García Nuevo León 66269 
+Nuevo León,Lic. Marcelo Alejandro Estrada Navarro ,31,False,Róo Papagayo No. 146 entre Calle Amozoc y Av. Rodrigo Gómez Colonia Mitras Norte Monterrey Nuevo León 64320 
+Nuevo León,Lic. Martín Ángel Saldívar Alanís ,32,False,Con licencia de separación
+Nuevo León,Lic. Gerardo Salinas Garza ,33,False,Av. Humberto Lobo No. 770 Colonia Del Valle San Pedro Garza García Nuevo León 66220 
+Nuevo León,Lic. Brenda Josefina Treviño González ,34,False,Mariano Escobedo No. 109 Colonia Centro Montemorelos Nuevo León 
+Nuevo León,Lic. Federico Lama Bremer ,35,False,"Róo Colorado No. 423, entre Avenida Gómez Morón y Róo Rosas Colonia Del Valle San Pedro Garza García Nuevo León 66220 "
+Nuevo León,Lic. Roberto Auber Zenil Mondragón ,36,False,Rio Tóber No. 100-5 Colonia Del Valle (Sector Fátima) San Pedro Garza García Nuevo León 66257 
+Nuevo León,Lic. Alejandro González Pérez ,37,False,"Calle Rio Manzanares No. 321, Segundo Piso Local B Colonia Del Valle San Pedro Garza García Nuevo León 66220 "
+Nuevo León,Lic. Sergio Chapa Flores ,38,False,Avenida Puerta del Sol No. 502 – Int 20 Colonia Colinas de San Jerónimo Monterrey Nuevo León 64630 
+Nuevo León,Lic. Nelly Verónica Maldonado González ,39,False,Calle San Francisco No. 170 Colonia La Fama Santa Catarina Nuevo León 66100 
+Nuevo León,Lic. Bárbara Daniela Alcocer Axtle ,40,False,"Calle Planificadores No. 2802 Torre Cibeles, Piso 12, Oficina 136 Colonia Empleados SFEO Monterrey Nuevo León work"
+Nayarit,Lic. Gilberto Miramontes Correa ,2,True,"Durango Sur, número 37 Colonia Zona Centro Tepic Nayarit 63000 "
+Nayarit,Lic. Manuel Altamirano Quintero ,1,False,Libramiento Tepic – Mazatlan número 195 – 4 (entre Avenida las Brisas y Avenida Insurgentes) Colonia Fraccionamiento Las Brisas Tepic Nayarit 63117 
+Nayarit,Mtro. Enrique Cárdenas García ,3,False,"Av. Palmas #3, Interior A2 Plaza 3.14 Nuevo Vallarta Bahía de Banderas Nayarit 63732 "
+Nayarit,Lic. Otoniel Pérez Orta ,4,False,Calle Mariano Abasolo número 72 Poniente Colonia Centro Tepic Nayarit 63000 
+Nayarit,Lic. Eduardo Franco Quiroz ,5,False,"Paseo de los Cocoteros número 55, interior 2217 Del Centro Empresarial Colonia Nuevo Vallarta Bahía de Banderas Nayarit 63735 work"
+Nayarit,Lic. Melina Edith Miramontes Barajas ,6,False,Calle Durango número 37 Sur Colonia Centro Tepic Nayarit 63000 work
+Nayarit,Mtro. José Antonio Ibarra Rodríguez ,7,False,"Paseo de los Cocoteros número 55 interior 2217, del Centro Empresarial Colonia Nuevo Vallarta Bahía de Banderas Nayarit 63735 work"
+Nayarit,Lic. José Martón Mayorga Martónez ,8,False,"Calle Zacatecas número 173 Sur, piso 2, Despacho 4 Colonia Centro Tepic Nayarit 63000 "
+Nayarit,Mtro. Manuel Salinas Solís ,9,False,Calle Vicente Guerrero número 33 Oriente Colonia Centro Tepic Nayarit 63000 
+Nayarit,Lic. María de la Luz Barajas Aguiar ,10,False,Calle José María Morelos y Pavón número 334 Poniente Zona Centro Tepic Nayarit 63000 
+Nayarit,Lic. José Luis Béjar Rivera ,11,False,Avenida México Sur número 137 Colonia Centro Tepic Nayarit 63000 
+Nayarit,Lic. Claudia Noemí Medina Satarain ,12,False,"Avenida Juan Escutia número 45, esquina con Calle Morelos Colonia Heriberto Casas Tepic Nayarit 63080 "
+Nayarit,Lic. Carlos Manuel Altamirano Rojas ,13,False,"Calle Mar Mediterráneo número 119, planta baja (Carretera La Cruz de Huanacaxtle – Punta de Mita Km. 1) Colonia Magisterial II sección Banderas Nayarit 63734 "
+Nayarit,Lic. Ruth Yenire Salinas Granda ,14,False,Calle Vicente Guerrero número 33 Colonia Centro Tepic Nayarit 63000 work
+Morelos,Lic. Norma Elvia Martel Mota ,6,True,"Róo Amacuzac número 7, primer piso Colonia Vista Hermosa Cuernavaca Morelos 62290 "
+Morelos,Lic. Bernardita Concepción Alegría García ,2,False,"Avenida San Diego número 100 , casa 2 (oficial 1701 casa 2) esquina Bugambilia Colonia Fraccionamiento Jardines Las Delicias Cuernavaca Morelos 62330 "
+Morelos,Lic. Noemí López Luna ,3,False,Cuernavaca Morelos 
+Morelos,Lic. Ricardo Sánchez Armas García ,4,False,"Calle Hidalgo número 14, despacho 205 Colonia Centro Cuernavaca Morelos 62000 "
+Michoacán,Lic. Armando Gilberto Manzano Alba ,1,False,Con licencia de separación
+Michoacán,Lic. José Luis Marín Soto ,2,False,Con licencia de separación
+Michoacán,Lic. Bernardo Santamaría Chamu ,4,False,Casa Mata número 1051 Colonia Chapultepec Sur Morelia Michoacán 58260 
+Estado de México,Lic. Gustavo Mauricio Gámez Imaz ,1,True,Circuito Novelistas número 10 Ciudad Sátelite Naucalpan de Juárez Estado de México 53100 
+Estado de México,Lic. Diego Miguel Perezcano Beltrán ,2,False,"Amargura 50, Oficina 7 Col. Parques De la Herradura Huixquilucan Estado de México 52786 work"
+Estado de México,Dr. Rodolfo Santos González Salcedo ,3,False,Con licencia de separación
+Estado de México,Lic. Jorge Nava Hernández ,4,False,"Avenida de las Fuentes número 184, interior 615 Colonia Lomas de Tecamachalco Naucalpan de Juárez Estado de México 53950 work"
+Estado de México,Lic. Luis Arredondo Cepeda y Torres ,11,False,Con licencia de separación
+Estado de México,Lic. Luis Arredondo Cepeda Fonseca ,12,False,Calle Narciso Mendoza número 56 Colonia Manuel Avila Camacho Naucalpan Estado de México 53910 
+Estado de México,Lic. Pedro Enrique Franco Luna ,13,False,"Lago Chapultepec esquina Lago Baykal número 132, interior 1, Manzana 70, Lote 25 Colonia Jardines de Morelos Ecatepec México 55070 "
+Estado de México,Lic. Luis Gerardo Bernal Baledón ,14,False,Paseo Fidel Velázquez número 1104 Colonia San Sebastián Toluca México 50090 
+Estado de México,Lic. Benjamím Arreguín Meneses ,15,False,Calle Colina de la Paz número 50 Colonia Fraccionamiento Boulevares Segunda Sección Naucalpan de Juárez México 53140 
+Estado de México,Lic. René Gurmilan Sánchez ,16,False,Calle Viveros de Coyoacán número 210 Colonia Viveros de la Loma Tlanepantla de Baez México 54080 
+Estado de México,Lic. Federico Jesús Escárcega Anderson ,17,False,"Avenida José López Portillo número 206, Piso 4, Torre Griscell Colonia Zacuautitla Coacalco México 55700 "
+Jaliso,Lic. Maria Teresa de la Concha Autrique ,50,True,Calle Calderón de la Barca No. 291 (esquina Montenegro) Colonia Arcos Vallarta Guadalajara Jalisco 44150 
+Jaliso,Lic. Karen Bibiana Camarena Gutiérrez ,74,True,Calle Hidalgo No. 86 Colonia Centro Arandas Jalisco 47180 
+Jaliso,Lic. Antonio Rodríguez Laura Gutiérrez ,2,False,Avenida Unión número 164 Colonia Americana Guadalajara Jalisco 44100 work
+Jaliso,Lic. Cesar Eduardo Uribe Vera ,3,False,Con licencia de separación
+Jaliso,Lic. Rafael Castellanos ,4,False,Con licencia de separación
+Jaliso,Lic. Ricardo Salvador Rodríguez Vera ,6,False,"Calle Tepeyac No. 4253 (entre Prados de Laureles y de los Olivos, a media cuadra del Club de Leones) Colonia Prados de Tepeyac Zapopan Jalisco 44050 "
+Jaliso,Lic. Fernando Hernández Gómez ,9,False,Juan Ruiz de Alarcón No. 320 Colonia Arcos Sur Guadalajara Jalisco 44100 
+Jaliso,Dra. Elsa Patricia Cortés Chávez ,10,False,Avenida Moctezuma No. 4673 Colonia Jardines del Sol Zapopan Jalisco 45050 
+Jaliso,Lic. Alejandro Moreno Perez ,11,False,Calle Colomos No. 2468 Colonia Providencia Guadalajara Jalisco 44639 
+Jaliso,Lic. Juan Gabriel Aguilar Maytorena ,12,False,Calle Bogotá número 2818 Colonia Providencia Guadalajara Jalisco 44639 
+Jaliso,Lic. Mónica Martínez Brambila ,13,False,Calle A las Montañas No. 400 Colonia Prados Vallarta Zapopan Jalisco 45020 work
+Jaliso,Lic. Adrián Talamantes Lobato ,14,False,"Calle Colomos número 2468 Colonia Providencia, Sector Hidalgo Guadalajara Jalisco 44639 "
+Jaliso,Lic. Mario Humberto Torres Verdin ,15,False,Con licencia de separación
+Jaliso,Lic. Jorge Olivares Quiroz ,16,False,"Calle Ley No. 2664, Circunvalación Vallarta Colonia Sector Hidalgo Guadalajara Jalisco 44680 "
+Jaliso,Mtro. Carlos Enrique Horner Villaseñor ,17,False,Prado de los Pirules No. 1110 Colonia Prados Tepeyac Zapopan Jalisco 45050 
+Jaliso,Lic. José de Jesús Ruiz Higuera ,18,False,"Boulevard Francisco Medina Ascencio, Plaza Neptuno, Km 7.5, Local F8 Colonia Marina Vallarta Puerto Vallarta Jalisco 48335 "
+Jaliso,Mtra. Jannine Oliveros Barba ,19,False,Calle José Maróa Heredia No. 2526 Colonia Ladrón de Guevara Guadalajara Jalisco 44600 
+Jaliso,Lic. Luis Eduardo Zuloaga Maytorena ,20,False,Calle Justo Sierra No. 2768 Colonia Vallarta Norte Guadalajara Jalisco 44690 
+Jaliso,Lic. Rolando Felix De Jesus Alvarez Barba ,21,False,Av. Lázaro Cárdenas No. 3422- 403 Colonia Los Arcos Guadalajara Jalisco 44500 
+Jaliso,Lic. Guillermo González Granada ,22,False,Calle Persas No. 271 Colonia Altamira Zapopan Jalisco 45160 
+Jaliso,Lic. Sergio Ramirez Fernandez ,23,False,Avenida Faro No. 2454 Colonia Bosques de la Victoria Guadalajara Jalisco 44540 
+Jaliso,Lic. Dolores García Morales ,24,False,Calle Asunción No. 3138 Colonia Chapalita Guadalajara Jalisco 44500 
+Jaliso,Lic. Martha Susana Rodríguez Aceves ,25,False,Calle Ostia No. 2495 Colonia Fraccionamiento Providencia Guadalajara Jalisco 44630 
+Jaliso,Lic. Jaime Maytorena Martínez Negrete ,26,False,"Calle Justo Sierra No. 2768 Colonia Vallarta Norte, Sector Hidalgo Guadalajara Jalisco 44690 "
+Jaliso,Lic. Rubén Villa Léver ,27,False,"Avenida Pablo Neruda número 2886, piso 2 Colonia Fraccionamiento Providencia Guadalajara Jalisco 44630 "
+Jaliso,Lic. Pedro Ruiz Higuera ,29,False,Con licencia de separación
+Jaliso,Lic. Alejandro Landeros Ramírez ,30,False,Av. Tepeyac No. 4116 despacho 203 Colonia Ciudad de los Niños Zapopan Jalisco 45040 
+Jaliso,Lic. José Flores Gutiérrez ,31,False,Nicolás Bravo número 46 Colonia Centro Arandas Jalisco 47180 
+Jaliso,Lic. Enrique Casillas Franco ,32,False,Calle Pedro Medina No. 67 Colonia Centro Tepatitlán de Morelos Jalisco 47600 
+Jaliso,Lic. Fernando Manuel Camara Rodríguez ,33,False,Av. Tepeyac No. 4445 Colonia Fraccionamiento Tepeyac Casino Zapopan Jalisco 44050 
+Jaliso,Lic. Alberto Garcia Ruvalcaba ,34,False,"Avenida Hidalgo No. 1769 Colonia Ladrón de Guevara, Zona Minerva Guadalajara Jalisco 44600 "
+Jaliso,Lic. Pablo González Vázquez ,35,False,Calle Xóchitl No. 231 Colonia Ciudad del Sol Zapopan Jalisco 45050 
+Jaliso,Lic. Maria Leticia Velasco Covarrubias ,36,False,Av. Patria No. 2070 Colonia Fraccionamiento Lomas de Atemajac Zapopan Jalisco 45178 
+Jaliso,Lic. Elías Estrada López ,37,False,"Avenida Acueducto número 2100, planta baja Colonia Colinas de San Javier Guadalajara Jalisco 45110 "
+Jaliso,Lic. Eduardo De Alba Gongora ,38,False,Av. Xochótl No. 236 Colonia Ciudad del Sol Zapopan Jalisco 45050 
+Jaliso,Lic. Ricardo Carrillo Romero ,39,False,Calla Napoleón No. 453 (entre Reforma y Herrera y Cairo) Colonia Terranova Guadalajara Jalisco 44670 
+Jaliso,Lic. Jorge Luis Ramos Uriarte ,40,False,Calle Francisco I. Madero No. 681 Colonia Florida Ocotlán Jalisco 47800 
+Jaliso,Lic. Pablo Del Castillo Lobatón ,41,False,"Avenida de las Américas No. 1536, Piso 5 A Colonia Country Club Guadalajara Jalisco 44610 "
+Jaliso,Lic. Antonio Rodriguez López ,42,False,Cuauhtémoc 818 Colonia Ciudad del Sol Zapopan Jalisco 45040 
+Jaliso,Lic. Jorge Gerardo Gutierrez Ortiz Monasterio ,43,False,Av. Novelistas No. 5067 Colonia Jardines Vallarta Zapopan Jalisco 45027 
+Jaliso,Lic. Luis Felipe Mayorquín Vélez ,44,False,Calle Rinconada del Nardo número 3418 Colonia Rinconada Santa Rita Guadalajara Jalisco 44690 
+Jaliso,Lic. Salvador Lona Flores ,45,False,Calle Colomos No. 2468 Colonia Providencia Guadalajara Jalisco 44639 
+Jaliso,Lic. Jorge Robles Madrigal ,46,False,"Boulevard Puerta de Hierro No. 5210, Torre Cube, piso 6 Colonia Fraccionamiento Puerta de Hierro Zapopan Jalisco 45116 "
+Jaliso,Lic. José Raúl Vázquez Brambila ,47,False,Calle Ley número 2721 Colonia Circunvalación Vallarta Guadalajara Jalisco 44680 
+Jaliso,Lic. Francisco José Narvaez Michel ,48,False,Calle José María Heredia número 2526 Colonia Ladrón de Guevara Guadalajara Jalisco 44600 
+Jaliso,Mtro. Gerardo Ramírez Organista ,49,False,Avenida Niño Obrero No. 1032 Colonia Ciudad de los Niños Zapopan Jalisco 45040 
+Jaliso,Lic. Mario García Gódinez ,51,False,Av. Xóchitl No. 231 Colonia Ciudad del Sol Zapopan Jalisco 45050 
+Jaliso,Lic. Carlos Márquez Lechuga ,52,False,"Av. Lázaro Cárdenas No. 3422 Despacho 103 Colonia Chapalita, Zona Minerva Zapopan Jalisco 45040 "
+Jaliso,Lic. Martha Leticia Orozco Ruiz ,53,False,Calle Isabel Prieto No. 798 Colonia Jesús Garcóa Guadalajara Jalisco 44640 
+Jaliso,Lic. Santiago Camarena Plancarte ,54,False,Av. San Francisco número 3715 Colonia Fraccionamiento Jardines de San Ignacio Zapopan Jalisco 45040 
+Jaliso,Lic. Eduardo Sánchez Acosta ,55,False,"Avenida Grandes Lagos, número 185 Colonia Residencial Fluvial Vallarta Puerto Vallarta Jalisco 48312 "
+Jaliso,Lic. Cesar Eduardo Uribe González ,56,False,Avenida Prado de los Laureles No. 325 Colonia Jardines del Sol Zapopan Jalisco 45050 
+Jaliso,Lic. Fabián Tommasi Méndez ,57,False,Calle Nápoles 2598 Colonia Providencia Guadalajara Jalisco 44680 
+Jaliso,Lic. Hector Alberto Romero Fierro ,58,False,Av. Américas No. 1930 1er. piso Colonia Country Club Guadalajara Jalisco 44610 
+Jaliso,Lic. Miguel Angel Orozco Plascencia ,59,False,"Torre Cube 2, Avenida Paseo Royal Country número 4596, Piso 14 Colonia Puerta de Hierro Zapopan Jalisco 45116 "
+Jaliso,Lic. Luis Enrique Padilla Poyo ,60,False,Calle Privada del niño número 676 Colonia Fraccionamiento Camino Real Zapopan Jalisco 45040 
+Jaliso,Lic. Carla Paola Schmidt Mendivil ,61,False,"Calle Ley número 2664, entre Rubén Darío y Avenida López Mateos Colonia Circunvalación Vallarta Guadalajara Jalisco 44680 "
+Jaliso,Mtro. Fernando Augusto Shelley Fiorentino ,62,False,"Paseo Royal Country número 4596, Torre Cube 2, Piso 16 Colonia Fraccionamiento Puerta de Hierro Zapopan Jalisco 45116 "
+Jaliso,Lic. Luis Alberto Rendón Sandoval ,63,False,Calle Fidias No. 157 (cruce con calle Leónidas) Colonia Vallarta San Jorge Guadalajara Jalisco 44690 
+Jaliso,Lic. Carlos Luviano Montelongo ,64,False,Beethoven número 376 Colonia Juan Manuel Guadalajara Jalisco 44680 
+Jaliso,Lic. Gabriel Villaléver García De Quevedo ,65,False,Juan Palomar y Arias 129 Colonia Vallarta San Jorge Guadalajara Jalisco 44690 
+Jaliso,Lic. Jesús Galván Álvarez ,66,False,* Jalisco 
+Jaliso,Lic. Adriana Mercado Ruiz ,67,False,José María Vigil No. 867 Colonia Sector Hidalgo Guadalajara Jalisco 44200 
+Jaliso,Lic. Agustín Vargas Díaz ,68,False,Santa Catalina de Siena 597 Fraccionamiento Camino Real Zapopan Jalisco 45040 
+Jaliso,Lic. Luis Alfonso Aldana Fernández ,69,False,Av. de la Paz No. 2580 Piso 2 Interior 4C Colonia Arcos Vallarta Guadalajara Jalisco 44150 
+Jaliso,Mtro. Diego Torres Soule ,70,False,Avenida Libertad No. 1828 Colonia Americana Guadalajara Jalisco 44160 
+Jaliso,Lic. Antonio Eduardo Anaya Aviña ,71,False,Avenida Xochitl No. 231 Colonia Ciudad del Sol Zapopan Jalisco 45050 
+Jaliso,Lic. Nancy Karina Martínez Basáñez ,72,False,Blvd. Homero No. 113 Colonia Fraccionamiento Vallarta San Jorge Guadalajara Jalisco 44690 
+Jaliso,Lic. Lorenzo Bailon Fonseca ,73,False,Avenida Américas No. 209 Colonia Ladrón de Guevara Guadalajara Jalisco 44600 
+Jaliso,Lic. José Contreras Aguirre ,75,False,Av. Chapalita 1236 Colonia Campo Polo Chapalita Guadalajara Jalisco 44500 
+Jaliso,Mtra. Edna Lizet Velázquez Mercado ,76,False,Circuito Madrigal No. 3983 Colonia San Wenceslao Zapopan Jalisco 45110 
+Jaliso,Lic. José Ricardo Arámburo Williams ,77,False,Con licencia de separación
+Jaliso,Lic. Edgar Daniel Castillo Ortega ,78,False,"Avenida Paseo Royal Country No. 4650, piso 17, oficina 1 Colonia Puerta de Hierro Zapopan Jalisco 45116 "
+Jaliso,Lic. Jorge Eduardo Medina Villanueva ,79,False,Avenida San Francisco número 3715 Colonia Fraccionamiento Jardines de San Ignacio Zapopan Jalisco 45040 
+Jaliso,Lic. Alejandra López García ,80,False,Calle Javier Mina número 63 Colonia Zapopan Centro Entre Eva Briseño y Emiliano Zapata Zapopan Jalisco 45100 
+Jaliso,Lic. José de Jesús Muñoz Navarro ,81,False,"Avenida Américas No. 1536, piso 4 Colonia Country Club Guadalajara Jalisco 44637 "
+Jaliso,Lic. Javier Moreno Cardeña ,82,False,Calle Alberta No. 1553-B Colonia Providencia 4a sección Guadalajara Jalisco 44639 
+Jaliso,Lic. Jesús Torres Barragán ,83,False,Calle Marcos Gorda número 186 Colonia Centro Ciudad Guzmán Jalisco 49000 work
+Hidalgo,Mtro. Alberto Méndez Llaca ,5,True,Beneficio de Patio 302-B Colonia Real de Minas Pachuca Hidalgo 42090 
+Hidalgo,Lic. Celerino Cabrera Reyes ,1,False,"Calle Manuel Fernando Soto número 404, piso 1 Colonia Centro Pachuca Hidalgo 42000 "
+Hidalgo,Lic. Carlos Francisco Herrera Arriaga ,2,False,"Boulevard Valle de San Javier número 218, piso 2, despacho 301 Colonia Fraccionamiento Valle de San Javier Pachuca Hidalgo 42086 "
+Hidalgo,Lic. Eduardo Javier Baños Gómez ,4,False,Con licencia de separación
+Hidalgo,Lic. Arturo Serrano Moedano ,6,False,Calle Río Pánuco número 101 A Colonia Las Terrazas Pachuca de Soto Hidalgo 42098 
+Hidalgo,Mtra. María Rebeca Cruz Bustos ,7,False,Calle Encino número 300 Fraccionamiento Alamo Rústico Mineral de la Reforma Hidalgo 42184 
+Hidalgo,Lic. José Rafael Lugo Bastida ,8,False,"Calle Villas de San José número 101, Residencial Villas de Guadalupe Colonia Maestranza Pachuca de Soto Hidalgo 42060 "
+Guerrero,Lic. Luis Arévalo Contreras ,1,True,Calle Fragata Querétaro número 15 Colonia Fraccionamiento Costa Azul Acapulco Guerrero 39850 
+Guerrero,Lic. Adrián García Fierro ,2,False,"Calle Jesús Carranza número 9, despacho 2 Colonia Centro Acapulco Guerrero 39300 "
+Guerrero,Lic. Alfredo Rodríguez Vega ,4,False,"Avenida Costera Miguel Alemán número 320, interior Edificio San Carlos, despacho 402 Colonia Centro Acapulco Guerrero 39300 "
+Guerrero,Lic. Fidel Serrato Valdez ,6,False,"Avenida Cuauhtémoc número 146, Plaza Cuauhtémoc, local 104 Colonia Fraccionamiento Hornos Acapulco Guerrero 39357 "
+Guanajuato,Lic. Gerardo Vicente Estrada Alvarado ,3,True,Paseo de Celaya número 800 Colonia Jardines de Celaya primera Sección Celaya Guanajuato 38080 
+Guanajuato,Lic. Mario Emilio Vargas Islas ,1,False,Avenida Paseo de los Insurgentes número 508 planta baja Colonia Jardines del Moral León Guanajuato 37160 
+Guanajuato,Lic. José Luis Andrade Nava ,2,False,Calle Viena número 210 Colonia Andrade León Guanajuato 37020 
+Guanajuato,Lic. Laura Adriana Pérez Cornejo ,5,False,"Boulevard José María Morelos No. 5495 Piso 7, Despacho 38 Fracc. La Querencia León Guanajuato 37358 "
+Guanajuato,Lic. Luis Fernando Sanromán Martínez ,6,False,"Avenida Cerro Gordo número 130, interior 1005 Colonia Cerro Gordo León Guanajuato 37129 "
+Durango,Lic. Alberto Ramírez Celada ,1,True,"Boulevard González de la Vega número 251 Sur Altos, piso 2, interior 7 Colonia Parque Industrial Lagunero Durango Durango 35078 "
+Durango,Lic. Liliana del Rayo Rodríguez Sarmiento ,2,False,"Calle 5 de Febrero número 1507 Oriente, piso 2 Colonia Guillermina Durango Durango 34270 "
+Durango,Lic. Jorge Marco Aurelio Martínez Romo ,3,False,Calle Prolongación Lerdo número 111 Fraccionamiento Empleado Municipal Durango Durango 34110 
+Ciudad de México,Lic. Raúl Valencia Del Toro ,68,True,"Avenida Santa Fe número 440, interior 201 Colonia Santa Fe Cuajimalpa Ciudad de México σ½05348 "
+Ciudad de México,Lic. Ramón González Gutiérrez ,1,False,Calle Río Pánuco número 153 Colonia Cuauhtémoc Cuauhtémoc Ciudad de México 6500 
+Ciudad de México,Lic. Manuel Ramírez y Franco ,2,False,"Calle Sonora número 49, despacho 601 Colonia Roma Norte Cuauhtémoc Ciudad de México 6700 "
+Ciudad de México,Lic. René Arredondo Cepeda y Fonseca ,3,False,"3er anillo de circunvalación, edificio 13, entrada C, departamento 206, esquina avenida Róo San Joaquón Colonia Lomas de Sotelo Miguel Hidalgo Ciudad de México 11200 "
+Ciudad de México,Lic. María Esther García Álvarez ,4,False,Georgia No. 13 Int. 103 Colonia Nápoles Benito Juárez Ciudad de México 3200 
+Ciudad de México,Lic. Pedro Cuevas Garza ,5,False,"Avenida Prolongación Paseo de la Reforma número 115 – 1003, piso 10 Colonia Paseo de las Lomas Álvaro Obregón Ciudad de México 1330 "
+Ciudad de México,Lic. Pedro Eduardo Silva Durán ,6,False,"Calle Amores número 1029, despacho 101 Colonia Del Valle Benito Juárez Ciudad de México σ½03100 "
+Ciudad de México,Lic. Jaime Romero Anaya ,7,False,Calle Róo Pánuco número 153 Colonia Cuauhtémoc México Ciudad de México 65000 
+Ciudad de México,Mtro. Fernando Abraham Barrita Chagoya ,8,False,Montes Urales 755 Piso 3 Col. Lomas de Chapultepec IV Sección Esq. Vosgos Miguel Hidalgo Ciudad de México 11000 
+Ciudad de México,Lic. Jaime Sáenz Azcárraga ,10,False,"Calle Róo Nilo número 88, despacho 102 Colonia Cuauhtémoc Cuauhtémoc Ciudad de México 6500 "
+Ciudad de México,Lic. Guillermo Villarreal Torres ,11,False,"Avenida Prolongación Paseo de la Reforma número 115 – 1001, piso 10 Colonia Paseo de las Lomas Álvaro Obregón Ciudad de México 1330 "
+Ciudad de México,Lic. Francisco Xavier Breña Malagamba ,12,False,"Calle Enrique Ibsen número 15, piso 4, despacho 401 Colonia Chapultepec Polanco Miguel Hidalgo Ciudad de México 11560 "
+Ciudad de México,Lic. Julio Alejandro Durán Gómez ,13,False,"Paseo de los Tamarindos número 400, P.B., L5 Colonia Bosques de las Lomas Cuajimalpa Ciudad de México σ½05120 "
+Ciudad de México,Lic. Mauricio Alejandro Oropeza Estrada ,14,False,"Avenida Paseo de la Reforma número 505, piso 28 Colonia Cuauhtémoc Cuauhtémoc Ciudad de México σ½06500 "
+Ciudad de México,Lic. Diego Martín del Campo y Souza ,15,False,Con licencia de separación
+Ciudad de México,Lic. Anuar Antonio Rezc Baltezar ,16,False,"Cerro de Tlapacoyan número 18, piso 1 Colonia Copilco Universidad Coyoacán Ciudad de México σ½04360 "
+Ciudad de México,L.R.C. José Antonio Soto Silva ,17,False,"Calle Tlatetilpan número 17, casa \”F\” Colonia Barrio San Lucas Coyoacán Ciudad de México σ½04030 "
+Ciudad de México,Lic. Jorge Armando Pérez Rivera ,18,False,"Avenida Ingenieros Militares número 65, piso 3, oficina 301-E Colonia Lomas de Sotelo Miguel Hidalgo Ciudad de México 11200 "
+Ciudad de México,Dra. Margarita Isabel Sánchez Meneses ,19,False,Calle Adolfo Prieto número 1137 Colonia Del Valle Benito Juárez Ciudad de México σ½03100 
+Ciudad de México,Lic. Francisco Castellanos Guzmán ,20,False,"Calle Bosque de Duraznos número 65, oficina 701 – A Colonia Bosques de las Lomas Miguel Hidalgo Ciudad de México 11700 "
+Ciudad de México,Lic. Jorge Rábago Ordoñez ,21,False,Calle Tonalá número 120 esquina con Guanajuato Colonia Roma Norte Cuauhtémoc Ciudad de México σ½06700 
+Ciudad de México,Lic. José Francisco Alejandro Ruíz Robles ,22,False,Santander número 59 entre Valencia y Algeciras Colonia Insurgentes Mixcoac Delegación Benito Juárez Ciudad de México σ½03920 
+Ciudad de México,Lic. Hugo Murillo Zermeño ,23,False,"Concepción Béistegui número 622, tercer piso Colonia Del Valle Benito Juárez Ciudad de México 3100 "
+Ciudad de México,Lic. María Cristina Juárez Uribe ,24,False,Bruselas número 67 Colonia Del Carmen Coyoacán Coyoacán Ciudad de México σ½04100 
+Ciudad de México,Lic. Pedro José Canseco Malloy ,25,False,"Avenida Insurgentes Sur número 949, despacho 602 Colonia Nápoles Benito Juárez Ciudad de México 3810 "
+Ciudad de México,Lic. Germán Guerra Velarde ,26,False,Avenida Patriotismo número 324 Colonia San Pedro de los Pinos Benito Juárez Ciudad de México 3800 
+Ciudad de México,Lic. María Marcela Gómez Plata ,27,False,Cerro del Crestón No. 140 Colonia Campestre Churubusco Coyoacán Ciudad de México σ½04200 
+Ciudad de México,Lic. José Eduardo Núñez Durán ,28,False,Culiacán número 109 Colonia Hipódromo Condesa Cuauhtémoc Ciudad de México σ½06100 
+Ciudad de México,Lic. José Armando Julián Salcedo Arranz ,29,False,Calle Cuautla número 96 Colonia Condesa Cuauhtémoc Ciudad de México σ½06140 
+Ciudad de México,Lic. Pedro García Tiburcio ,30,False,"Calle Enrique Ibsen número 15, despacho 401 Colonia Chapultepec Polanco Miguel Hidalgo Ciudad de México 11560 "
+Ciudad de México,Mtro. Federico Gabriel Lucio Decanini ,31,False,Thiers No. 190 Colonia Anzures Ciudad de México 11590 
+Ciudad de México,Lic. Elio Chávez Martínez ,32,False,"Calle Amores número 1101, esquina con Matías Romero Colonia Del Valle Benito Juárez Ciudad de México 3100 "
+Ciudad de México,Lic. Eduardo Arce Gargollo ,33,False,Con licencia de separación
+Ciudad de México,Lic. Miguel Ángel Augusto Camposeco Cadena ,34,False,"Avenida Cuauhtémoc número 16, despacho 102 Colonia Doctores Cuauhtémoc Ciudad de México 6760 "
+Ciudad de México,Lic. Adrián Ortega Navarrete ,35,False,Calle Luis Spota número 100 Colonia San Simón Ticumac Demarcación Territorial Benito Juárez Ciudad de México 03660 
+Ciudad de México,Lic. José Lázaro Peña Ruiz ,36,False,"Avenida Mariano Escobedo número 573, piso 4 Colonia Rincón del Bosque Miguel Hidalgo Ciudad de México 11580 "
+Ciudad de México,Lic. Luis Gonzalo Herrera Sandoval ,37,False,Tabasco número 44 Colonia Roma Cuauhtémoc Ciudad de México σ½06700 
+Ciudad de México,Lic. Carlos Arturo Matsui Santana ,38,False,"Calle Félix Cuevas No. 301, 9 piso, Col. Del Valle Ciudad de México σ½03100 "
+Ciudad de México,Lic. Ricardo Iñiguez Segura ,39,False,Calle Gobernador José María Tornel número 52 Colonia San Miguel Chapultepec Miguel Hidalgo Ciudad de México 11850 
+Ciudad de México,Lic. José Gabriel Bastidas Salcido ,40,False,Valladolid #97 desp. 301 Colonia Roma Norte Cuauhtémoc Ciudad de México 06700 
+Ciudad de México,Lic. Cecilia Arredondo Ramos ,41,False,"Buffón número 46, esquina Ejército Nacional, piso 6, Despacho 601 Colonia Nueva Anzures Miguel Hidalgo Ciudad de México 11590 "
+Ciudad de México,Lic. Héctor Cervantes Andrade ,42,False,Insurgentes Sur No. 1571 Piso 1 Oficina 102 Colonia San José Insurgentes Alcaldía Benito Juárez Ciudad de México 03900 
+Ciudad de México,Lic. María del Rocío González Hernández ,43,False,"Róo Tiber número 91, despacho 501 Colonia Cuauhtémoc Cuauhtémoc Ciudad de México σ½06500 "
+Ciudad de México,Lic. Dionisio J. de Velásco Mendivil ,44,False,"Atenas número 56 B, piso 3 Colonia Juárez Cuauhtémoc Ciudad de México σ½06600 "
+Ciudad de México,Lic. Mauro A. Cándano Álvarez del Castillo ,45,False,"Calle Agua número 580, Edificio B, planta alta Colonia Jardines del Pedregal Álvaro Obregón Ciudad de México σ½01900 "
+Ciudad de México,Lic. Juan Martín Álvarez Moreno ,46,False,Calle Ricardo Castro número 54 – 101 Colonia Guadalupe Inn Álvaro Obregón Ciudad de México 1020 
+Ciudad de México,Lic. Alfredo Porcayo Vergara ,47,False,Calle Manzanillo número 143 Colonia Roma Sur Cuauhtémoc Ciudad de México 6760 
+Ciudad de México,Lic. Mariano Velasco Márquez ,48,False,Calle Romero de Terreros número 808 – P.B. Colonia Del Valle Benito Juárez Ciudad de México 3100 
+Ciudad de México,Lic. José Antonio Sánchez Chávez ,49,False,"Avenida Baja California, Eje 3 Sur, No. 255-A, Despacho 203 Colonia Hipódromo Cuauhtémoc Ciudad de México 06100 "
+Ciudad de México,Mtro. Gerardo Francisco M. Saavedra Silva ,50,False,"Bosque de Ciruelos número 130, piso 5 Colonia Bosques de las Lomas Miguel Hidalgo Ciudad de México 11700 "
+Ciudad de México,Lic. José Antonio Rodríguez Márquez ,51,False,Álvaro Obregón CDMX Ciudad de México 
+Ciudad de México,Lic. Misael Santiago Dehesa Pulido ,52,False,"Avenida Melchor Ocampo número 193, Torre 3 (Privanza), piso 5, oficina 5-A Colonia Verónica Anzures Miguel Hidalgo Ciudad de México 11300 "
+Ciudad de México,Lic. Susana Margarita Bravo Vieytez ,53,False,Calle Fujiyama número 72 Colonia Las Águilas Álvaro Obregón Ciudad de México 1710 
+Ciudad de México,Lic. Carlos Martín León Barrera ,54,False,Róo Danubio 69 oficina 1 Col. Cuauhtémoc Cuauhtémoc Ciudad de México σ½06500 
+Ciudad de México,Lic. Omar Alejandro Said Saldaña ,55,False,Calle Ameyalco número 14 Colonia Del Valle Benito Juárez Ciudad de México σ½03100 
+Ciudad de México,Lic. Julio Manuel Rivera de los Reyes ,56,False,"Avenida Insurgentes Sur número 1605, piso 12, Torre MuralCP 3900, Álvaro Obregón, Ciudad de México Colonia San José Insurgentes Álvaro Obregón Ciudad de México 3900 "
+Ciudad de México,Lic. Jimena González de Cossio Higuera ,57,False,Bosque de Abetos No. 25 Colonia Bosques de las Lomas Delegación Miguel Hidalgo Ciudad de México 11700 
+Ciudad de México,Lic. José de la Paz Rendón de la Hoz ,58,False,"Avenida Insurgentes Sur Número 682, despachos del 1001 al 1006 Colonia Del Valle Benito Juárez Ciudad de México 3100 "
+Ciudad de México,Lic. Francisco Javier Sánchez Gavito Díaz ,59,False,Lafontaine número 50 Colonia Chapultepec Morales Miguel Hidalgo Ciudad de México 11560 
+Ciudad de México,Lic. Tayatzin Gutiérrez Ramírez ,60,False,"Calle Álvaro Obregón número 151, piso 1, despacho 102 Colonia Roma Cuauhtémoc Ciudad de México 6700 "
+Ciudad de México,Lic. Jaime Salvador García González ,61,False,"Calle Dakota número 204, despacho 104 (casi esquina con Filadelfia, cerca del WTC) Colonia Nápoles Benito Juárez Ciudad de México σ½03810 "
+Ciudad de México,Lic. Graciela Martínez Pérez ,62,False,"Calle Róo Marne número 19, interior 203 Colonia Cuauhtémoc Cuauhtémoc Ciudad de México σ½06500 "
+Ciudad de México,Lic. Alfonso Javier Mejía Calderón ,63,False,"Avenida Insurgentes Sur número 1409, despacho 2 Colonia Insurgentes Mixcoac Benito Juárez Ciudad de México σ½03920 "
+Ciudad de México,Dr. Armando Salazar Chávez ,64,False,"Avenida Baja California número 146, Despacho 301 Colonia Cuauhtémoc Cuauhtémoc Ciudad de México σ½06760 "
+Ciudad de México,Lic. Alfredo Trujillo Betanzos ,65,False,Cerro del Aire número 48 Colonia Romero de Terreros Coyoacán Ciudad de México σ½04310 
+Ciudad de México,Lic. Oscar Gerardo Castillo Chávez Camacho ,66,False,"Insurgentes Sur número 598, despacho 602 Colonia Del Valle Benito Juárez Ciudad de México 03100 "
+Ciudad de México,Lic. Fernando Martínez Macedo ,67,False,"Minerva número 104, despacho 102 Colonia Florida Álvaro Obregón Ciudad de México σ½01030 "
+Ciudad de México,Lic. Ramón Galván Gutiérrez ,69,False,Calle Varsovia número 57 – 101 Colonia Juárez Cuauhtémoc Ciudad de México σ½06600 
+Ciudad de México,Lic. Carlos Porcel Sastrías ,70,False,"Calle Alborada número 124, despacho 703 Colonia Parques del Pedregal Tlalpan Ciudad de México 14010 "
+Ciudad de México,Lic. Daniel Ortiz Lora ,71,False,"Calle Descartes número 54, despacho 404 Colonia Anzures Miguel Hidalgo Ciudad de México 11590 "
+Ciudad de México,Lic. Carlos Alfredo Ongay Flores ,72,False,"Avenida Cuauhtémoc, número 693, interior 3 Colonia Narvarte Benito Juárez Ciudad de México σ½03020 "
+Ciudad de México,Lic. María Isabel Rodríguez Hernández ,73,False,"Hipólito Taine número 229, interior 202 Colonia Chapultepec Morales Miguel Hidalgo Ciudad de México 11570 "
+Ciudad de México,Lic. Alfredo Domínguez Casas ,74,False,Róo Ebro número 80 Colonia Cuauhtémoc Cuauhtémoc Ciudad de México 6500 
+Ciudad de México,Lic. Arvida Berenice Rábago Dueñas ,75,False,"Calle Tonalá número 120, esquina Guanajuato Colonia Roma Norte Cuauhtémoc Ciudad de México σ½06700 "
+Ciudad de México,Lic. Octavio Augusto Martínez Trillo ,76,False,"San Lorenzo número 141, interior 202 Colonia Tlacoquemecatl del Valle Benito Juárez Ciudad de México σ½03200 "
+Ciudad de México,Lic. Carlos Roberto García Ángeles ,77,False,Calle Melesio Morales número 15 Colonia Guadalupe Inn Álvaro Obregón Ciudad de México σ½01020 
+Ciudad de México,Lic. Mónica López Ramírez ,78,False,Tecolutla no. 4 Colonia San Jerónimo Aculco Magdalena Contreras Ciudad de México 10400 
+Ciudad de México,Lic. Elio Chávez Lortia ,79,False,"Calle Amores número 1101, esquina con Matóas Romero Colonia Del Valle Benito Juárez Ciudad de México 3100 "
+Ciudad de México,Lic. Marco Antonio González Reynoso ,80,False,Wisconsin No. 13 Colonia Nápoles Benito Juárez Ciudad de México 03840 
+Ciudad de México,Lic. José Ramón Clark Guzmán ,81,False,"Avenida Paseo de las Palmas número 731, interior 202 Colonia Lomas de Chapultepec Miguel Hidalgo Ciudad de México 11000 "
+Ciudad de México,Mtro. Juan Enrique Aguilar Lemarroy ,82,False,"Circuito Guillermo González Camarena número 999, interior 2101 Colonia Santa Fe Álvaro Obregón Ciudad de México σ½01210 "
+Ciudad de México,Dr. Luis Roberto Lara Ramos ,83,False,"Calle Hipólito Taine número 249, oficina 202 Colonia Chapultepec Morales Delegación Miguel Hidalgo Ciudad de México 11570 "
+Ciudad de México,Lic. Juan Carlos Sánchez Márquez ,84,False,José María Pereda 615-202 Colonia Lomas de Chapultepec Alcaldía Miguel Hidalgo Ciudad de México 11000 
+Ciudad de México,Lic. Silvia Sánchez Guadarrama ,85,False,Calzada de las Águilas No. 406 B Colonia Las Águilas Álvaro Obregón México Ciudad de México 01710 
+Ciudad de México,Lic. Mauricio Orozco González ,86,False,Calle Atlixco número 152 Colonia Hipódromo Condesa Cuauhtémoc Ciudad de México 06170 work
+Ciudad de México,Lic. Jorge Alejandro Ochoa Pola ,87,False,Róo Ebro número 80 Colonia Cuauhtémoc Cuauhtémoc Ciudad de México σ½06500 
+Ciudad de México,Lic. Adriana Angélica Verde Rocha ,88,False,"Calle Norte 35, número 695, Oficina 212 (Corporativo Vallejo) Colonia Coltongo Azcapotzalco Ciudad de México σ½02630 "
+Ciudad de México,Lic. José Francisco Olvera Ruiz ,89,False,Calle Descartes número 109 Colonia Anzures Delegación Miguel Hidalgo Ciudad de México 11590 
+Ciudad de México,Lic. Román Victoriano García Bravo ,90,False,Dr. José María Vértiz No. 534 Despacho 102 Colonia Narvarte Oriente Ciudad de México 03020 work
+Ciudad de México,Lic. Juan Francisco Ramos Hernández ,91,False,"Av. Insurgentes Sur número 1796, piso 4 Colonia Florida Álvaro Obregón Ciudad de México 01030 "
+Ciudad de México,Lic. David José Núñez ,92,False,"José María Pereda 615, Interior 202, Colonia Lomas de Chapultepec Miguel Hidalgo Ciudad de México 11000 work"
+Ciudad de México,Lic. Guillermo Rangel Esparza ,93,False,Calle Comunal No. 17 Colonia Agrícola Chimalistac Álvaro Obregón Ciudad de México 01070 work
+Ciudad de México,Lic. Magda Talía Aguilar Aldana ,94,False,"Circuito Interior Melchor Ocampo número 193, Torre A Piso 13 oficina 13 – A, Colonia Verónica Anzures Miguel Hidalgo Ciudad de México 11300 work"
+Ciudad de México,Lic. Francisco Javier Robles Hue ,95,False,"Calle Ignacio Ramírez 20 piso 1, oficina 103, Colonia Tabacalera Alcaldía Cuauhtémoc Ciudad de México 06030 work"
+Chihuahua,Lic. Francisco Torres Arizmendi ,10,True,López Mateos No. 1524- 10 Col. Córdoba Américas Ciudad Juárez Chihuahua 32310 
+Chihuahua,Lic. Enrique Medina Reyes ,1,False,Calle Cuarta número 2003 Colonia Centro Chihuahua Chihuahua 31000 
+Chihuahua,Mtro. Omar Cayam Valenzuela Escalante ,2,False,Calle Allende número 808 Colonia Centro Chihuahua Chihuahua 31000 
+Chihuahua,Lic. Alvaro Campos Chaparro ,3,False,Calle Paseo Bolívar número 501 Colonia Centro Histórico Chihuahua Chihuahua 31000 
+Chihuahua,Lic. Jorge Luis Ruiz Martínez ,4,False,"Avenida Paseo Triunfo de la República número 3304, Piso 1 Colonia Partido Escobedo Ciudad Juárez Chihuahua 32330 "
+Chihuahua,Lic. Federico Heráclito Hagelsieb Lerma ,5,False,"Avenida Hidalgo número 645, Local 22CP 31500, Altos de Ciudad Cuauhtemoc, Chihuahua Colonia Zona Centro Altos de Ciudad Cuauhtémoc Chihuahua 32000 "
+Chihuahua,Lic. José Reyes Ferriz ,6,False,Con licencia de separación
+Chihuahua,Lic. Graciela Margarita Puente Escalante ,7,False,Con licencia de separación
+Chihuahua,Lic. Verónica Torres Torres ,8,False,"Avenida 20 de Noviembre número 5525, esquina artóculo 39 Colonia Segunda Burócrata Ciudad Juárez Chihuahua 32340 "
+Chihuahua,Lic. Gabriel Humberto Sepúlveda Reyes ,9,False,Con licencia de separación
+Chihuahua,Lic. Enrique Ángel Marcos Abularach ,11,False,"Edificio Punto Alto E 4, 6 Piso, Calle Centro Ejecutivo, número 5500 Colonia Desarrollo El Saucito Chihuahua Chihuahua 31125 "
+Chihuahua,Mtro. Alejandro Burciaga Molinar ,12,False,Paseo Bolóvar número 702 Colonia Centro Chihuahua Chihuahua 31000 
+Chiapas,Lic. Jorge David Meléndez González ,3,False,Boulevard Arco Iris número 262 Fraccionamiento Monte Real Tuxtla Gutiérrez Chiapas 29023 work
+Chiapas,Lic. Luis Mauricio Ibarrola Serrano ,5,False,Inhabilitado
+Colima,Lic. Marco Antonio Barbosa Reyes ,2,True,Colina de los Sauces número 25 Colonia Las Colinas Villa de Álvarez Colima 28979 
+Colima,Lic. Elba Leticia Barragán Cárdenas ,1,False,Con licencia de separación
+Colima,Lic. Carlos Eduardo Barreda Cedillo ,3,False,Calle Cóndor número 30 Colonia Lomas Verdes Colima Colima 28017 
+Colima,Lic. Julio Javier Zenteno Delgado ,4,False,"Avenida Ignacio Sandoval número 1898, Planta Alta Colonia Fraccionamiento Real Vista Hermosa III Colima Colima 28018 "
+Coahuila,Lic. Adolfo Quijano Aguirre ,5,True,"Boulevard Nazario Ortiz Garza No. 2060 Piso 4, oficinas 405 a 409 Plaza Santa Isabel Col. Tanque de Peña Saltillo Coahuila 25253 "
+Coahuila,Lic. José Jezreel Arredondo Tueme ,2,False,"Calle Niños Héroes número 137 Sur, segundo piso Colonia Centro Torreón Coahuila 27000 "
+Coahuila,Mtro. Carlos Lauro Romo Vázquez ,3,False,Avenida Matamoros número 913 Poniente esquina Calle Blanco Altos Colonia Zona Centro Torreón Coahuila 27000 
+Coahuila,Lic. Severo Carlos Mendoza Hernández ,4,False,Calle Leona Vicario número 270 Sur Colonia Zona Centro Torreón Coahuila 27000 
+Coahuila,Lic. Juan Manuel Barrera Martínez ,6,False,Avenida Morelos número 854 Oriente Colonia Zona Centro Torreón Coahuila 27000 
+Coahuila,Lic. Cesar Edmundo Villafranca y González ,7,False,Calle Juan Antonio de la Fuente número 484 Colonia Zona Centro Saltillo Coahuila 25000 
+Campeche,Dr. Emilio del Río Pacheco ,4,True,Calle Aldama número 14 Colonia San Román Campeche Campeche 24040 
+Campeche,Lic. Perla del Carmen Cortés Madrazo ,3,False,Calle 24 número 46 entre 29 y 29 – A Colonia Centro Ciudad del Carmen Campeche 24100 work
+Baja California Sur,Mtra. Romina del Carmen Ruiz Cárdenas ,9,True,"5 de Mayo #211, Local 2 entre Av. Cabo San Lucas y M. Hidalgo Colonia Centro Cabo San Lucas Baja California Sur 23450 "
+Baja California Sur,Lic. Miguel Ángel Izquierdo y Viamonte ,1,False,Avenida Revolución de 1910 número 2315 – A (entre las calles de Manuel Pineda y Manuel Márquez de León) Colonia Centro La Paz Baja California Sur 23000 
+Baja California Sur,Lic. Francisco Javier Mazoy Camara ,2,False,"Paseo Finisterra número 136, local 6 Colonia Campo de Golf San José del Cabo Baja California Sur 23406 "
+Baja California Sur,Lic. María del Pilar García Orozco ,3,False,"Privada Camino Real número 4115, Condominio Caboconquesta Colonia El Médano Cabo San Lucas Baja California Sur 23450 "
+Baja California Sur,Lic. Gamill Abelardo Arreola Leal ,4,False,Mariano Abasolo entre Revolución y 20 de noviembre Colonia Centro Cabo San Lucas Baja California Sur 23450 
+Baja California Sur,Lic. Manuel Gonzalo Angulo Verdugo ,5,False,"Carretera Transpeninsular Km 31, Plaza Las Palmas, Local 12 Colonia Magisterial San José del Cabo Baja California Sur 23400 "
+Baja California Sur,Lic. Alberto Velázquez Cota ,6,False,"Boulevard Lázaro Cárdenas s/n, Edificio Posadas y/o Pioneros, Local 12 SPR. Colonia Centro Cabo San Lucas Baja California Sur 23450 "
+Baja California Sur,Lic. José Antonio Alegre Ochoa ,7,False,Calle Ensenada número 2245 – A Colonia Fraccionamiento Perla La Paz Baja California Sur 23040 
+Baja California Sur,Lic. Jesús Rafael Méndez Garmendia ,8,False,Calle Melitón Albáñez número 2155 entre Ignacio Allende y Juárez Colonia Fraccionamiento Perla La Paz Baja California Sur 23020 
+Baja California Sur,Lic. Francisco Javier Alegre Ortega ,10,False,"Calle Miguel Hidalgo, Número 205, Local 6 Colonia Mariano Matamoros Cabo San Lucas Baja California Sur 23468 "
+Baja California,Lic. Eduardo Manuel Ruíz Orozco Pérez ,4,True,Avenida Jesús García número 1400 Colonia Libertad Mexicali Baja California 21030 
+Baja California,Lic. Sergio Manuel Murillo Oliva ,1,False,"Avenida Ruiz número 962, locales 13 y 14, Zona Centro Ensenada Baja California 22800 work"
+Baja California,Lic. Alberto Ugalde Mendoza ,2,False,Avenida Gral. Vicente Guerrero número 1782 Colonia Nueva Mexicali Baja California 21100 
+Baja California,Lic. Pedro Antonio Hernández Castro ,5,False,Avenida de los Álamos número 291 Colonia Fraccionamiento Los Pinos Mexicali Baja California 21230 
+Baja California,Lic. Juan Carlos Caropresi Regalado ,7,False,Boulevard de las Americas Oriente número 5370 Colonia Fraccionamiento El Paraíso Tijuana Baja California 22106 
+Baja California,Lic. José Guadalupe Gutiérrez Ramírez ,8,False,"Vóa Oriente número 60, Local 4, Módulo 8, Centro Comercial Pueblo Amigo Colonia Zona Róo Tijuana Baja California 22010 "
+Baja California,Lic. Sirak Emmanuel Pérez Soltero ,9,False,Avenida Ryerson número 454 Colonia Zona Centro Ensenada Baja California 22800 
+Baja California,Lic. Agustin Canett Meza ,11,False,Calle Fresnillo número 2661 Colonia Cacho Tijuana Baja California 22150 
+Baja California,Lic. Germán Esquer García ,12,False,"Calle Bogotá número 898, esquina Avenida República de Panamá Colonia Cuauhtémoc Sur Mexicali Baja California 21200 "
+Baja California,Lic. Guillermo Caropresi Gómez ,17,False,Boulevard de las Américas Oriente número 5370 Colonia Fraccionamiento El Paraíso Tijuana Baja California 22106 
+Baja California,Lic. Rafael Angulo Cebreros ,18,False,Callejón Róo Suchiate número 9937 Colonia Revolución Tijuana Baja California 22015 
+Baja California,Lic. Lamberto Manuel Fernández Peralta ,19,False,"Boulevard Sánchez Taboada número 10403, Despacho 506 Zona del Róo Tijuana Baja California 22010 "
+Baja California,Mtro. Manuel Irineo Pérez Alarcón ,20,False,Calle Carlos Rovirosa número 3133 – A Colonia Fraccionamiento Aviación Delegación Zona Centro Tijuana Baja California 22014 
+Baja California,Lic. Ramón Villegas Villaseñor ,21,False,"Blvd. Venustiano Carranza No. 951, Piso 11, Int. 408 Corporativo Punta Este, Col. Rivera Mexicali Baja California 21259 "
+Baja California,Lic. Luis Alberto Montijo Velázquez ,22,False,"Calle Misión de San Javier número 10661, interior 501 Colonia Zona Róo Tijuana Baja California 22010 "
+Baja California,Lic. Patricio Orozco Loza ,23,False,Calle Róo Colorado número 9951 Colonia Revolución Tijuana Baja California 22015 
+Baja California,Lic. Marie Alicia Diez de Bonilla González ,24,False,Avenida Baños de Agua Caliente número 3640 Colonia 20 de noviembre Tijuana Baja California 22100 
+Baja California,Lic. Karla Madrazo Villarreal ,25,False,Calle Dr. Atl número 2084 – suite 601 Colonia Zona Urbana Róo Tijuana Tijuana Baja California 22020 
+Baja California,Mtra. Yissel Vidal Orozco ,26,False,"Calle A número 110, local 3 Colonia Segunda Sección Mexicali Baja California 21100 "
+Aguascalientes,Lic. Víctor Manuel Delgadillo de la Serna ,13,True,"Sierra Morena número 122, Interior I-A y II-A Colonia Fraccionamiento Bosques del Prado Norte Aguascalientes Aguascalientes 20127 "
+Aguascalientes,Lic. Yolanda López Guzmán ,2,False,Calle Juan de Montoro 337 Zona Centro Aguascalientes Aguascalientes 20000 
+Aguascalientes,Lic. Miguel Ángel Muñoz González ,3,False,Francisco I. Madero número 251 interior 307 Colonia Centro Aguascalientes Aguascalientes 20000 
+Aguascalientes,Lic. Francisco Llamas Esperón ,4,False,Avenida Adolfo López Mateos Oriente número 712 interior 101 Colonia Centro Aguascalientes Aguascalientes 20000 
+Aguascalientes,Lic. Javier Eduardo Medina Rodríguez ,6,False,"Avenida Universidad número 1001, 5 piso, Despachos 514 y 515, Edificio Torre Plaza Bosques Colonia Fraccionamiento Bosques del Prado Norte Aguascalientes Aguascalientes 20030 "
+Aguascalientes,Lic. Vicente Moreno Rincón ,7,False,Avenida Adolfo López Mateos Oriente número 101 Colonia Barrio de la Estación Aguascalientes Aguascalientes 20259 
+Aguascalientes,Lic. Marco Antonio Hernández Medina ,8,False,5 de Febrero número 914 Colonia San Luis Aguascalientes Aguascalientes 20259 
+Aguascalientes,Lic. Roberto José Arellano Crespo ,9,False,Avenida Aguascalientes Norte número 413-401 (penthouse) Colonia Fraccionamiento Bosques del Prado Sur Aguascalientes Aguascalientes 20127 
+Aguascalientes,Lic. Jesús Zavala Pérez Moreno ,10,False,"Monte Negro número 2017, 1σí Piso (esquina calle Peñuelas) Colonia Fraccionamiento Trojes de Oriente II Aguascalientes Aguascalientes 20115 "
+Aguascalientes,Dr. Miguel Ángel Marmolejo Cervantes ,11,False,Avenida Aguascalientes Poniente número 101 – 1 Colonia San Marcos Aguascalientes Aguascalientes 20080 
+Aguascalientes,Lic. Francisco Saúl Favela Narváez ,12,False,Sierra del humo 103 Int. 1 Bosques del Prado Sur Aguascalientes Ags. 20130 
+Aguascalientes,Lic. José Cabral Moreno ,14,False,Monte Everest número 803 Colonia Los Bosques Aguascalientes Aguascalientes 20120 
+Aguascalientes,Mtro. Felipe Muñoz Rodríguez ,15,False,Avenida Aguascalientes Norte No 413 int 401 Bosques del Prado Sur Aguascalientes Aguascalientes 20127 
+Aguascalientes,Dr. Alejandro Guízar Tejeda ,16,False,Cale Andes Apeninos 310-B Colonia Los Bosques Aguascalientes Aguascalientes 20120 work
