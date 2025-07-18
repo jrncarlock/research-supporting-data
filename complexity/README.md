@@ -1,4 +1,4 @@
-Data for the bipartite actor-idea extracted from the 24 interviews in the book "Complexity: 5 Questions" (Gershenson, 2008). 
+Data for the bipartite actor-idea extracted from the 24 interviews in the book "Complexity: 5 Questions" (Gershenson, 2008). Available here: https://www.researchgate.net/publication/260868740_Complexity_5_Questions
 
 The data comes as a source-target edgelist:
 * source (the interviewee, e.g. "Peter M. Allen")
