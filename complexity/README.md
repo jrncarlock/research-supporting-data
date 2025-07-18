@@ -10,3 +10,5 @@ Important note:
 The figure below was created using Cytoscape. For visualization purposes, (node) ideas are colored according to the degree ($k$): gray ($k<6$), blue ($6\leq k <12$), and red ($k\geq 12$); with $k=12$ meaning at least 50% co-occurrence.
 
 <img src="complexity_bipartie_network.png" alt="Complexity" width="800px"/>
+
+Check out Hiroki Sayama's repository for rigorous data collection on complex systems topics: https://github.com/hsayama/complex-systems-topic-network-2024
