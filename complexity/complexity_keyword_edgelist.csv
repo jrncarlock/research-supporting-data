@@ -1,0 +1,241 @@
+source,target
+Peter M. Allen,evolution
+Peter M. Allen,adaptation
+Peter M. Allen,self_organization
+Peter M. Allen,nonlinearity
+Peter M. Allen,emergence
+Peter M. Allen,history
+Peter M. Allen,pattern
+Peter M. Allen,uncertainty
+Peter M. Allen,environment
+Peter M. Allen,complex_adaptive_systems
+Philip W. Anderson,broken_symmetry
+Philip W. Anderson,emergence
+Philip W. Anderson,hierarchy
+Philip W. Anderson,simplicity
+Philip W. Anderson,collective_behaviors
+Philip W. Anderson,many_body_problems
+Philip W. Anderson,quantum_mechanics
+Philip W. Anderson,reductionism
+Philip W. Anderson,physics
+Philip W. Anderson,complexity
+W. Brian Arthur,economy
+W. Brian Arthur,adaptation
+W. Brian Arthur,increasing_returns
+W. Brian Arthur,self_reinforcement
+W. Brian Arthur,technology
+W. Brian Arthur,dynamics
+W. Brian Arthur,agents
+W. Brian Arthur,strategy
+W. Brian Arthur,networks
+W. Brian Arthur,evolution
+Yaneer Bar-Yam,multiscale
+Yaneer Bar-Yam,emergence
+Yaneer Bar-Yam,information
+Yaneer Bar-Yam,predictability
+Yaneer Bar-Yam,network_structure
+Yaneer Bar-Yam,collective_behavior
+Yaneer Bar-Yam,complex_systems
+Yaneer Bar-Yam,dynamics
+Yaneer Bar-Yam,heterogeneity
+Yaneer Bar-Yam,control
+Eric Bonabeau,swarm_intelligence
+Eric Bonabeau,stochasticity
+Eric Bonabeau,agents
+Eric Bonabeau,local_rules
+Eric Bonabeau,global_patterns
+Eric Bonabeau,self_organization
+Eric Bonabeau,simulation
+Eric Bonabeau,adaptation
+Eric Bonabeau,distributed_control
+Eric Bonabeau,collective_dynamics
+Paul Cilliers,ethics
+Paul Cilliers,philosophy
+Paul Cilliers,nonlinearity
+Paul Cilliers,open_systems
+Paul Cilliers,emergence
+Paul Cilliers,knowledge
+Paul Cilliers,boundaries
+Paul Cilliers,uncertainty
+Paul Cilliers,self_organization
+Paul Cilliers,epistemology
+Jim Crutchfield,computation
+Jim Crutchfield,information
+Jim Crutchfield,prediction
+Jim Crutchfield,chaos
+Jim Crutchfield,emergence
+Jim Crutchfield,measurement
+Jim Crutchfield,models
+Jim Crutchfield,symbolic_dynamics
+Jim Crutchfield,structure
+Jim Crutchfield,computation
+Bruce Edmonds,social_simulation
+Bruce Edmonds,agent_models
+Bruce Edmonds,learning
+Bruce Edmonds,adaptation
+Bruce Edmonds,reflexivity
+Bruce Edmonds,epistemology
+Bruce Edmonds,norms
+Bruce Edmonds,institutions
+Bruce Edmonds,multi_level
+Bruce Edmonds,messy_complexity
+Nigel Gilbert,social_systems
+Nigel Gilbert,agent_based_models
+Nigel Gilbert,sociology
+Nigel Gilbert,emergence
+Nigel Gilbert,policy
+Nigel Gilbert,networks
+Nigel Gilbert,simulation
+Nigel Gilbert,interactions
+Nigel Gilbert,dynamics
+Nigel Gilbert,validation
+Hermann Haken,synergetics
+Hermann Haken,order_parameters
+Hermann Haken,control_parameters
+Hermann Haken,instability
+Hermann Haken,pattern_formation
+Hermann Haken,bifurcations
+Hermann Haken,lasers
+Hermann Haken,self_organization
+Hermann Haken,interdisciplinarity
+Hermann Haken,phase_transitions
+Francis Heylighen,evolution
+Francis Heylighen,self_organization
+Francis Heylighen,cybernetics
+Francis Heylighen,memes
+Francis Heylighen,knowledge
+Francis Heylighen,information
+Francis Heylighen,emergence
+Francis Heylighen,autopoiesis
+Francis Heylighen,adaptation
+Francis Heylighen,complex_systems
+Bernardo A. Huberman,dynamics
+Bernardo A. Huberman,distributed_systems
+Bernardo A. Huberman,information
+Bernardo A. Huberman,optimization
+Bernardo A. Huberman,computation
+Bernardo A. Huberman,scalability
+Bernardo A. Huberman,feedback
+Bernardo A. Huberman,adaptation
+Bernardo A. Huberman,collective_behavior
+Bernardo A. Huberman,technology
+Stuart A. Kauffman,autocatalysis
+Stuart A. Kauffman,self_organization
+Stuart A. Kauffman,evolution
+Stuart A. Kauffman,fitness_landscapes
+Stuart A. Kauffman,emergence
+Stuart A. Kauffman,complex_adaptive_systems
+Stuart A. Kauffman,biology
+Stuart A. Kauffman,evolution
+Stuart A. Kauffman,biosphere
+Stuart A. Kauffman,networks
+Seth Lloyd,computation
+Seth Lloyd,information
+Seth Lloyd,entropy
+Seth Lloyd,complexity
+Seth Lloyd,chaos
+Seth Lloyd,systems
+Seth Lloyd,predictability
+Seth Lloyd,dynamics
+Seth Lloyd,quantum_mechanics
+Seth Lloyd,models
+Gottfried Mayer-Kress,pattern_formation
+Gottfried Mayer-Kress,dynamics
+Gottfried Mayer-Kress,earth_systems
+Gottfried Mayer-Kress,climate
+Gottfried Mayer-Kress,bifurcation
+Gottfried Mayer-Kress,chaos
+Gottfried Mayer-Kress,models
+Gottfried Mayer-Kress,simulation
+Gottfried Mayer-Kress,phase_transitions
+Gottfried Mayer-Kress,networks
+Melanie Mitchell,genetic_algorithms
+Melanie Mitchell,learning
+Melanie Mitchell,adaptation
+Melanie Mitchell,emergence
+Melanie Mitchell,complex_adaptive_systems
+Melanie Mitchell,pattern_recognition
+Melanie Mitchell,computation
+Melanie Mitchell,networks
+Melanie Mitchell,dynamics
+Melanie Mitchell,models
+Edgar Morin,transdisciplinarity
+Edgar Morin,ethics
+Edgar Morin,knowledge
+Edgar Morin,ecology
+Edgar Morin,organization
+Edgar Morin,uncertainty
+Edgar Morin,self_reflection
+Edgar Morin,culture
+Edgar Morin,complex_thinking
+Edgar Morin,holism
+Mark Newman,networks
+Mark Newman,graph_theory
+Mark Newman,structure
+Mark Newman,random_graphs
+Mark Newman,community_detection
+Mark Newman,modularity
+Mark Newman,power_laws
+Mark Newman,connectivity
+Mark Newman,emergence
+Mark Newman,models
+Grégoire Nicolis,thermodynamics
+Grégoire Nicolis,irreversibility
+Grégoire Nicolis,non_equilibrium
+Grégoire Nicolis,self_organization
+Grégoire Nicolis,complexity
+Grégoire Nicolis,bifurcation
+Grégoire Nicolis,chaos
+Grégoire Nicolis,synergetics
+Grégoire Nicolis,patterns
+Grégoire Nicolis,fluctuations
+Jordan B. Pollack,machine_learning
+Jordan B. Pollack,neural_networks
+Jordan B. Pollack,coevolution
+Jordan B. Pollack,robotics
+Jordan B. Pollack,adaptation
+Jordan B. Pollack,computation
+Jordan B. Pollack,dynamics
+Jordan B. Pollack,evolution
+Jordan B. Pollack,control
+Jordan B. Pollack,emergence
+Peter Schuster,molecular_evolution
+Peter Schuster,fitness_landscapes
+Peter Schuster,RNA_world
+Peter Schuster,replicators
+Peter Schuster,mutation
+Peter Schuster,selection
+Peter Schuster,self_organization
+Peter Schuster,dynamics
+Peter Schuster,adaptation
+Peter Schuster,models
+Ricard V. Solé,ecology
+Ricard V. Solé,evolution
+Ricard V. Solé,networks
+Ricard V. Solé,language
+Ricard V. Solé,robustness
+Ricard V. Solé,modularity
+Ricard V. Solé,extinction
+Ricard V. Solé,self_organization
+Ricard V. Solé,scaling
+Ricard V. Solé,complex_adaptive_systems
+Tamás Vicsek,collective_motion
+Tamás Vicsek,pattern_formation
+Tamás Vicsek,swarming
+Tamás Vicsek,flocking
+Tamás Vicsek,self_organization
+Tamás Vicsek,dynamics
+Tamás Vicsek,phase_transitions
+Tamás Vicsek,statistical_physics
+Tamás Vicsek,emergence
+Tamás Vicsek,networks
+Stephen Wolfram,cellular_automata
+Stephen Wolfram,computation
+Stephen Wolfram,emergence
+Stephen Wolfram,simple_rules
+Stephen Wolfram,complex_behavior
+Stephen Wolfram,universality
+Stephen Wolfram,algorithmic_complexity
+Stephen Wolfram,models
+Stephen Wolfram,causality
+Stephen Wolfram,patterns
