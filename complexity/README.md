@@ -1,4 +1,4 @@
-# "Complexity: 5 Questions" bipartite expert-ideas network 
+# "Complexity: 5 Questions" bipartite network 
 
 Data for the bipartite expert-ideas network extracted from the 24 interviews in the book "Complexity: 5 Questions" (Gershenson, 2008). Book available here: https://www.researchgate.net/publication/260868740_Complexity_5_Questions
 
