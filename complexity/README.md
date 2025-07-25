@@ -6,7 +6,7 @@ The data comes as a source-target edgelist:
 * source (the interviewee, e.g. "Peter M. Allen")
 * target (a keyword, e.g. "networks")
 
-**Method:** Using ChatGPT-4o, 10 keywords were retrieved for each interviewee's perspective on complexity; then, a semantic analysis was performed. After loading the file, the prompt used was the following (step by step execution is recommended):
+**Methods:** Using ChatGPT-4o, 10 keywords were retrieved for each interviewee's perspective on complexity; then, a semantic analysis was performed. After loading the file, the prompt used was the following (step by step execution is recommended):
 
 1. Identify the 24 interviewees in the book.
 2. For each of the 24 interviewees extract 10 keywords related to the interviewee's perspective on complexity. Create a two-column table: "expert" and "keywords". Convert the keywords to a simpler underscored form. Remove special characters.
