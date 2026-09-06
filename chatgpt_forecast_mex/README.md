@@ -1,6 +1,6 @@
 # Mexico 2027 Governor Elections Forecast
 
-ChatGPT-5.6 (High) conversation on September 6, 2026.
+ChatGPT-5.6 (High) conversation on September 4, 2026.
 
 ## User prompt:
 
